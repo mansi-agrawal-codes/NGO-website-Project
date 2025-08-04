@@ -112,9 +112,12 @@ section{
 }
 .volunteer-section{
     background-color: rgb(235, 224, 224);
-    max-width: 50%;
-    padding:4rem 4rem 4rem 4rem;
+    width: 90%;
+    max-width:400px;
+    padding:1rem;
+    box-shadow: 0 0 1rem rgba(0,0,0,0.1);
     height:auto;
+    margin:1rem auto;
 }
 #volunteer-form{
     border-radius:1rem;
